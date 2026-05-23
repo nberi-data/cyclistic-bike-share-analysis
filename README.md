@@ -9,8 +9,8 @@ Analyze historical trip data to identify key behavioral differences between casu
 ## Data
 - **Data Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 - **Data Range:** 01/2025 - 12/2025
-- The data has been made available by Motivate International Inc, under this [license](https://divvybikes.com/data-license-agreement).
+- The data has been made available by Motivate International Inc, under this [license](https://divvybikes.com/data-license-agreement)
   
 ## Tools & Skills Used
-- SQL:
-- Tableau:
+- **SQL:** Data Aggregation, Data Cleaning, Feature Engineering, Subqueries
+- **Tableau:** Interactive Dashboard Design, Data Visualization, Calculated Fields, Geospatial Mapping, Dynamic Filtering
