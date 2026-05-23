@@ -14,3 +14,5 @@ Analyze historical trip data to identify key behavioral differences between casu
 ## Tools & Skills Used
 - **SQL:** Data Aggregation, Data Cleaning, Feature Engineering, Subqueries
 - **Tableau:** Interactive Dashboard Design, Data Visualization, Calculated Fields, Geospatial Mapping, Dynamic Filtering
+
+## Data Processing & Cleaning
