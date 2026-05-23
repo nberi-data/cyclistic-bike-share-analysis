@@ -16,3 +16,5 @@ Analyze historical trip data to identify key behavioral differences between casu
 - **Tableau:** Interactive Dashboard Design, Data Visualization, Calculated Fields, Geospatial Mapping, Dynamic Filtering
 
 ## Data Processing & Cleaning
+I uploaded the 12 monthly CSV files to the Google Cloud Platform and used BigQuery SQL `UNION ALL` to merge them into a single master dataset representing a full year of trip history for 2025. [View SQL merging query](sql/01_data_merging.sql).
+
