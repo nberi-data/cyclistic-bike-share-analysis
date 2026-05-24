@@ -31,3 +31,11 @@ Validation checks included:
 - Evaluating incomplete coordinate records
 
 View the exploratory analysis and quality check queries here: [sql/02_data_validation.sql](sql/02_data_validation.sql)
+
+## Data Cleaning
+A cleaned dataset table was created in BigQuery to prepare the dataset for visualization and analysis. 
+
+Cleaning and transformation steps included:
+- Removing rides with missing end coordinates
+- Excluding rides with duration outliers (shorter than 1 minute and longer than 24 hours).
+- 
