@@ -15,7 +15,19 @@ Analyze historical trip data to identify key behavioral differences between casu
 - **SQL:** Data Aggregation, Data Cleaning, Feature Engineering, Subqueries
 - **Tableau:** Interactive Dashboard Design, Data Visualization, Calculated Fields, Geospatial Mapping, Dynamic Filtering
 
-## Data Processing & Cleaning
-The 12 monthly CSV files were uploaded to Google BigQuery SQL and merged into a single master table using `UNION ALL` to create a complete trip dataset covering a full year of trip history for 2025. [View SQL merging query](sql/01_data_merging.sql).
+## Data Preparation
+The 12 monthly CSV files were uploaded to Google BigQuery SQL and merged into a single master table using `UNION ALL` to create a complete trip dataset covering a full year of trip history for 2025.
 
+View the data merging query here: [sql/01_data_merging.sql](sql/01_data_merging.sql).
 
+## Data Validation 
+Before cleaning the dataset, exploratory SQL queries were used to assess overall data quality and identify inconsistencies within the raw trip data. 
+
+Validation checks included:
+- Detecting null and missing values
+- Checking for duplicate ride IDs
+- Identifying ride duration outliers
+- Detecting potential maintenance or test stations
+- Evaluating incomplete coordinate records
+
+View the exploratory analysis and quality check queries here: [sql/02_data_validation.sql](sql/02_data_validation.sql)
