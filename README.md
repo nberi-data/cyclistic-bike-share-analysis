@@ -4,7 +4,7 @@ This case study analyzes Cyclistic rider behavior using real-world data from Div
 - **Tableau Public Dashboard:** [View Interactive Dashboard](https://public.tableau.com/app/profile/nicole.beri/viz/Cyclistic_Bike_Share_Analysis_17792397883410/MainDashboard)
 
 ## Business Task
-Analyze historical trip data to identify key behavioral differences between casual riders and annual members. The objective is to provide actionable, data-driven insights and strategic recommendations that can be utilized to convert casual riders into annual members to maximize future growth and recurring revenue.
+Analyze historical trip data to identify key behavioral differences between casual riders and annual members. The objective is to provide actionable, data-driven insights and strategic recommendations to convert casual riders into annual members, thereby maximizing future growth and recurring revenue.
 
 ## Data
 - **Data Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
@@ -45,3 +45,5 @@ Cleaning and transformation steps included:
     - Hour
    
 View the data cleaning and transformation queries here: [sql/03_data_cleaning.sql](sql/03_data_cleaning.sql)
+
+## Data Analysis & Key Insights
