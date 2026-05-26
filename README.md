@@ -38,4 +38,10 @@ A cleaned dataset table was created in BigQuery to prepare the dataset for visua
 Cleaning and transformation steps included:
 - Removing rides with missing end coordinates
 - Excluding rides with duration outliers (shorter than 1 minute and longer than 24 hours).
-- 
+- Generating time-based analytical features:
+    - Ride duration (minutes)
+    - Day of week
+    - Month
+    - Hour
+   
+View the data cleaning and transformation queries here: [sql/03_data_cleaning.sql](sql/03_data_cleaning.sql)
