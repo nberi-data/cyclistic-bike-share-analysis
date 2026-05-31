@@ -47,3 +47,10 @@ Cleaning and transformation steps included:
 View the data cleaning and transformation queries here: [sql/03_data_cleaning.sql](sql/03_data_cleaning.sql)
 
 ## Data Analysis & Key Insights
+### 1. Rider Composition
+With a total of 5.40M rides, annual members accounted for 64.52% of total rides, while casual riders accounted 35.48% of total rides.
+![02_rider_donut_chart](images/02_rider_donut_chart.png)
+
+### 2. Commute vs. Leisure 
+
+
