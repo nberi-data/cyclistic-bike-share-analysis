@@ -52,5 +52,6 @@ With a total of 5.40M rides, annual members accounted for 64.52% of total rides,
 ![02_rider_donut_chart](images/02_rider_donut_chart.png)
 
 ### 2. Commute vs. Leisure 
+Members primarily use Cyclistic for commuting purposes, with traffic peaking at 8 AM and 5 PM on weekdays, specifically around corporate and transit-heavy hubs. Casual riders follow a more leisure-oriented behavior, with traffic peaking from 12 PM to 5 PM on weekends, specifically around waterfront and landmark stations.
 
 
