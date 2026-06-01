@@ -49,9 +49,9 @@ View the data cleaning and transformation queries here: [sql/03_data_cleaning.sq
 ## Data Analysis & Key Insights
 ### 1. Rider Composition
 With a total of 5.40M rides, annual members accounted for 64.52% of total rides, while casual riders accounted 35.48% of total rides.
-![02_rider_donut_chart](images/02_rider_donut_chart.png)
+![03_rider_donut_chart.png](images/03_rider_donut_chart.png) 
 
 ### 2. Commute vs. Leisure 
 Members primarily use Cyclistic for commuting purposes, with traffic peaking at 8 AM and 5 PM on weekdays, specifically around corporate and transit-heavy hubs. Casual riders follow a more leisure-oriented behavior, with traffic peaking from 12 PM to 5 PM on weekends, specifically around waterfront and landmark stations.
-![03_hourly_trends](images/03_hourly_trends.png)
+![04_hourly_trends](images/04_hourly_trends.png)
 
