@@ -49,9 +49,29 @@ View the data cleaning and transformation queries here: [sql/03_data_cleaning.sq
 ## Data Analysis & Key Insights
 ### 1. Rider Composition
 With a total of 5.40M rides, annual members accounted for 64.52% of total rides, while casual riders accounted 35.48% of total rides.
-![03_rider_donut_chart.png](images/03_rider_donut_chart.png) 
+![Rider Donut Chart](images/03_rider_donut_chart.png) 
 
 ### 2. Commute vs. Leisure 
 Members primarily use Cyclistic for commuting purposes, with traffic peaking at 8 AM and 5 PM on weekdays, specifically around corporate and transit-heavy hubs. Casual riders follow a more leisure-oriented behavior, with traffic peaking from 12 PM to 5 PM on weekends, specifically around waterfront and landmark stations.
-![04_hourly_trends](images/04_hourly_trends.png)
+![Hourly Trends](images/04_hourly_trends.png)
 
+### 3. Seasonal Trends
+Casual ridership showed significantly stronger seasonality, peaking in the summer months and declining sharply in off-season months. Member ridership remained more stable throughout the year. 
+![Seasonal Traffic](images/05_seasonal_trends.png)
+
+### 4. Ride Duration & Round Trip Behavior
+Casual riders have an average ride duration of 19.4 minutes, which is 65% longer than the average ride duration of 11.7 minutes for members.
+Casual riders are 3x more likely to take round trips (7.3%) compared to members (2.6%).
+![Round Trip](images/06_round_trip.png)
+
+## Recommendations
+### 1. Weekend Explorer Membership: 
+Introduce a lower-cost annual membership specifically for weekend usage. 
+A weekend membership is a great offer for casual riders who aren't ready to commit to a full-price membership. 
+
+### 2. Round Trip Rewards Program: 
+Offer a promotion where casual riders receive reward points or credit towards an annual membership for each completed round trip. This program is a great opportunity to transition casual riders into annual members.
+
+### 3. Early Bird Membership Discount: 
+Launch a targeted campaign in March specifically for casual riders who were active last summer. 
+Offering a spring discount secures loyalty and shifts casual riders into annual members. 
