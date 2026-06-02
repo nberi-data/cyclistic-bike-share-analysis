@@ -75,3 +75,8 @@ Offer a promotion where casual riders receive reward points or credit towards an
 ### 3. Early Bird Membership Discount: 
 Launch a targeted campaign in March specifically for casual riders who were active last summer. 
 Offering a spring discount secures loyalty and shifts casual riders into annual members. 
+
+## Dashboard Preview
+![Main Dashboard](images/01_main_dashboard.png)
+
+![Insights Dashboard](images/02_insights_dashboard.png)
