@@ -1,14 +1,14 @@
 # Cyclistic Bike-Share Analysis
 ## Project Overview
-This case study analyzes Cyclistic rider behavior using real-world data from Divvy, Chicago's bike-share program. Using SQL and Tableau, the analysis compares casual riders and annual members to uncover insights that can support membership conversion strategies. This project was completed as part of the Google Data Analytics Professional Certificate. 
+Using real-world trip data from Divvy, a Chicago-based bike-share program, this case study analyzes behavioral differences between Cyclistic’s casual riders and annual members to identify opportunities for membership growth. SQL was used for data validation, cleaning, transformation, and exploratory analysis, while Tableau was used to develop interactive dashboards and communicate insights. The analysis found that casual riders represent 35.48% of total ridership, ride significantly longer than members, show stronger seasonal usage patterns, and are nearly three times more likely to take round trips. These findings suggest that casual riders primarily use the service for recreational purposes, while members exhibit commuter-oriented behavior. Based on these insights, targeted marketing initiatives, seasonal campaigns, and a rewards program were recommended to increase casual-to-member conversion rates. This project was completed as part of the Google Data Analytics Professional Certificate. 
 - **Tableau Public Dashboard:** [View Interactive Dashboard](https://public.tableau.com/app/profile/nicole.beri/viz/Cyclistic_Bike_Share_Analysis_17792397883410/MainDashboard)
 
 ## Business Task
 Analyze historical trip data to identify key behavioral differences between casual riders and annual members. The objective is to provide actionable, data-driven insights and strategic recommendations to convert casual riders into annual members, thereby maximizing future growth and recurring revenue.
 
 ## Data
-- **Data Source:** [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
-- **Data Range:** 01/2025 - 12/2025
+- Data Source: [Divvy Trip Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+- Data Range: 01/2025 - 12/2025
 - The data has been made available by Motivate International Inc, under this [license](https://divvybikes.com/data-license-agreement)
   
 ## Tools & Skills Used
@@ -75,6 +75,10 @@ Offer a promotion where casual riders receive reward points or credit towards an
 ### 3. Early Bird Membership Discount: 
 Launch a targeted campaign in March specifically for casual riders who were active last summer. 
 Offering a spring discount secures loyalty and shifts casual riders into annual members. 
+
+## Next Steps
+- Evaluate station-specific marketing opportunities near high-traffic recreational areas
+- Develop a predictive model to identify casual riders with high membership conversion potential
 
 ## Dashboard Preview
 ![Main Dashboard](images/01_main_dashboard.png)
